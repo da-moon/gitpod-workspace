@@ -1,0 +1,3 @@
+cloneRepos:
+  - remoteURL: https://github.com/da-moon/convco
+    localPath: workspace/convco

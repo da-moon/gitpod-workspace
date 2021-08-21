@@ -2,4 +2,5 @@
 **/**
 !.gitignore
 !.gitpod.yml
+!.ggConf.yaml
 !Justfile
